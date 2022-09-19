@@ -1,4 +1,4 @@
-package com.scripts
+package com.lirik.scripts
 
 assert 1 + 2 == 3
 assert 4 - 3 == 1
